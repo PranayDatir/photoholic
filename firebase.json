@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/photoholic-97641/browser/index.html",
+    "public": "dist/photoholic/browser",
     "ignore": [
       "firebase.json",
       "**/.*",
